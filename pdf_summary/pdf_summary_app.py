@@ -1,4 +1,4 @@
-import my_text_sum
+import pdf_summary.my_text_sum as my_text_sum
 import streamlit as st
 import openai
 import os
